@@ -24,7 +24,8 @@ It is a Fitness Tracker app for Android.
 - **Live Data**: ![Live Data Icon][] The app uses LiveData to observe and update the UI based on changes in the underlying data.
 - **Bottom Navigation with Navigation Graph**: ![Bottom Navigation Icon][] The app has a bottom navigation bar with a navigation graph to provide a smooth and intuitive user experience.
 
-## Repository Structure```
+## Repository Structure
+```
 stridewize/
 ├── app/
 │   ├── src/
@@ -55,7 +56,8 @@ stridewize/
 ├── gradle/
 ├── gradlew
 ├── gradlew.bat
-└── settings.gradle```
+└── settings.gradle
+```
 
 ## License
 
