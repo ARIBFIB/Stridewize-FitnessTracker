@@ -116,7 +116,9 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **Email**: ![Email Icon][] your-email@example.com
-- **GitHub**: ![GitHub Icon][] [your-username](https://github.com/your-username)
-- **Developer**: ![Developer Icon][] Your Name
-- **LinkedIn**: ![LinkedIn Icon][] [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Email**: abdulrehman286ib@gmail.com
+- **GitHub**: [ARIBFIB]([https://github.com/your-username](https://github.com/ARIBFIB?tab=repositories))
+- **Developer**:  Abdul Rehman Irfan
+- **Contact**: 03360592060
+- **LinkedIn**: [03360592060](https://www.linkedin.com/in/abdul-rehman-irfan-6454952a3/)
+
