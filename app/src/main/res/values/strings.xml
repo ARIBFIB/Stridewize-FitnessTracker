@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <color name="mainColor">#222831</color>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBc6zsmu2fGvuI9sqW7F30wYFlkiz1Trf4</string>
+</resources>
