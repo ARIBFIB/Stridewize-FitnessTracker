@@ -1,7 +1,5 @@
-![Stridewize](https://github.com/user-attachments/assets/f22777da-92e0-40f8-b39b-9343dee16b5a)# 🏃‍♀️ Stridewize Fitness Tracker
-
-![Stridewize](https://github.com/user-attachments/assets/2cce88d6-ba23-44f0-af32-70f52dd9f669)
-
+# 🏃‍♀️ Stridewize Fitness Tracker
+![Stridewize](https://github.com/user-attachments/assets/f22777da-92e0-40f8-b39b-9343dee16b5a)
 It is a Fitness Tracker app for Android.
 
 ## How this app will work?
